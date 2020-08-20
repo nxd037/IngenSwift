@@ -1,0 +1,28 @@
+{
+  "name": "IngenSwift",
+  "version": "0.0.1",
+  "description": "testing swift support",
+  "repository": {
+    "type": "git",
+    "url": "REPO"
+  },
+  "cordova": {
+    "id": "ingen-swift",
+    "platforms": [
+      "iOS"
+    ]
+  },
+  "keywords": [
+    "IngenSwift",
+    "ionic-IngenSwift",
+    "cordova IngenSwift",
+    "cordova",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "ios",
+    "ionic"
+  ],
+  "author": "naderr",
+  "license": "MIT"
+}
